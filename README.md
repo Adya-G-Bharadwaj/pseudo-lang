@@ -22,7 +22,7 @@ The aim of this project is to create a programming language that works like pseu
 1 2 3 4 5 6 7 8 9 10
 
 ## Features
-This project will include an IDE mobile application that will exectue the program, similar to replit. There will be a scorllable text input area for users to type in their code. Similar to many popular IDEs, the language will highlight key words in specific colors. 
+This project will include an IDE mobile application that will execute the program, similar to replit. There will be a scorllable text input area for users to type in their code. Similar to many popular IDEs, the language will highlight key words in specific colors. 
 Additionally, there will be a seperate, closable window to display the output. Users can toggle the code and output windows off and on depending on their preference.
 
 ## Architecture
